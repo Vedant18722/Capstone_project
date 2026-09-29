@@ -1,0 +1,6 @@
+{
+  "name": "FinSight AI - AI Loan Eligibility & Financial Intelligence Platform",
+  "description": "Smarter Financial Decisions. Powered by AI. Analyze loan eligibility, credit score profile, calculate EMI, and receive personalized BFSI insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
