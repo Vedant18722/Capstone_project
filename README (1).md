@@ -3,6 +3,7 @@
 VeraCredit is a complete, full-stack BFSI (Banking, Financial Services, and Insurance) financial decision-support platform built strictly according to the reference architectural workflow diagram:
 
 Live Demo : https://drive.google.com/file/d/10C7oant74PzvAU4k33BItBbo2sm904-t/view
+Documentation Link : https://1drv.ms/w/c/76047e3b9b3f4013/IQDPRcoK7YDRTJK0tCHeh9W7AZqc2KF2gBKfdoF1QEUrmsA?e=ttx00k
 ```
                     ┌─────────────────────────────┐
                     │   HTML, CSS, JavaScript     │
